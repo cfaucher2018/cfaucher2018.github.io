@@ -1,3 +1,9 @@
+# git 10/5/2018
+
+This week I learned about markdown. I also learned about how to coad in markdown. I also learned about the many different types of ways to code in markdown. I also learned about how to use markdown to put things from code into a website. I also learned how markdown in used in todays world. I also learned how to take what you have in markdown and to transfer it into another persons markdown coding. I also learned about how to make a survival guide useing markdown. 
+
+---
+
 # Intro to coding 9/27/2018
 
 This week i learned how to code. I also learned how to take information and to put it into a code to create a way to use a website. I also learned about the different ways to code. I also learned about how to use visual stodio to code the information. I also learned about how to use differnet things on github. 
