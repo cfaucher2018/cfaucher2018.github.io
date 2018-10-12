@@ -1,3 +1,9 @@
+# Markdown 10/12/2018
+
+The things that I have learned this week is how to put a picture in on markdown. I also learned how to coade on markdown. I also learned that in markdown that one thing can lead to a lot of problems. I also learned about how markdown is used. I also learned how to inhance something in markdown. I also learned how to use codes to make others mad. 
+
+---
+
 # git 10/5/2018
 
 This week I learned about markdown. I also learned about how to coad in markdown. I also learned about the many different types of ways to code in markdown. I also learned about how to use markdown to put things from code into a website. I also learned how markdown in used in todays world. I also learned how to take what you have in markdown and to transfer it into another persons markdown coding. I also learned about how to make a survival guide useing markdown. 
