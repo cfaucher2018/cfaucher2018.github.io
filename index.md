@@ -1,3 +1,9 @@
+# XML 10/19/2018
+
+This week I learned about XML. I also learned about how to use XML in markdown. I also learned about how to create a world of coad in XML form. I also learned about how to create something useing a lot of different lines of coad. I also learned about how to use visual studio coad in XML formate. I also learned about how to write coad in a different language.  
+
+---
+
 # Markdown 10/12/2018
 
 The things that I have learned this week is how to put a picture in on markdown. I also learned how to coade on markdown. I also learned that in markdown that one thing can lead to a lot of problems. I also learned about how markdown is used. I also learned how to inhance something in markdown. I also learned how to use codes to make others mad. 
