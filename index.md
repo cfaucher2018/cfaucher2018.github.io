@@ -1,3 +1,9 @@
+# HTML 10/26/18
+
+This week I learned about html. I also learned about how to code in html mode. I also learned about the many different types of code that is used in html form. I also learned about how to use html to create my own website. I also learned how to code while useing tages to create my own website. I aslo learned about how to take an images and a video and to turn it into code so that it can be displayed on my website. 
+
+---
+
 # XML 10/19/2018
 
 This week I learned about XML. I also learned about how to use XML in markdown. I also learned about how to create a world of coad in XML form. I also learned about how to create something useing a lot of different lines of coad. I also learned about how to use visual studio coad in XML formate. I also learned about how to write coad in a different language.  
