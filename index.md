@@ -1,3 +1,9 @@
+# HTML 10/26/18
+
+I also learned about how to use html to create my own website. I also learned how to code while useing tages to create my own website. I aslo learned about how to take an images and a video and to turn it into code so that it can be displayed on my website. I also learned about h1 through h6 to create headers for websites. I also learned about the tag form. I also learned about the input tag to input things into a website. 
+
+---
+
 # XML 10/19/2018
 
 This week I learned about XML. I also learned about how to use XML in markdown. I also learned about how to create a world of coad in XML form. I also learned about how to create something useing a lot of different lines of coad. I also learned about how to use visual studio coad in XML formate. I also learned about how to write coad in a different language.  
