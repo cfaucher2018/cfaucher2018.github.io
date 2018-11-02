@@ -1,3 +1,9 @@
+# Pizza Project 11/2/18
+
+This week I created a website. I also created a pizza ordering cite. In the cite I put the different size of pizza that you can get on the cite. I also put in a place where you can choose the different types of toppings that you like on your pizza. I also put in the different types of crusts that you can choose for your pizza. I also put in different pictures to show the different types of pizzas that you can make. 
+
+---
+
 # HTML 10/26/18
 
 I also learned about how to use html to create my own website. I also learned how to code while useing tages to create my own website. I aslo learned about how to take an images and a video and to turn it into code so that it can be displayed on my website. I also learned about h1 through h6 to create headers for websites. I also learned about the tag form. I also learned about the input tag to input things into a website. 
