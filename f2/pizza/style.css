@@ -5,3 +5,10 @@ img{
     height: 200px; 
     width: 200px; 
 }
+
+
+.squircle{
+    border-radius: 25px;
+    padding: 20px; 
+
+}
