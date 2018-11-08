@@ -11,12 +11,12 @@ img{
 }   
 .pageMargin{
     border-style:double;
-    border-width:2px;
+    border-width:20px;
     border-color:red; 
 }
 h1{
     border-style:dotted;
-    border-width:2px;
+    border-width:20px;
     border-color:red; 
 }
 
