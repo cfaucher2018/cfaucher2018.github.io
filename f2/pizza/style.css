@@ -9,16 +9,20 @@ img{
     border-radius: 100px;
     padding: 20px; 
 }   
+h1{
+    border-style:dotted;
+    border-width:20px;
+    border-color:red; 
+    font-family: "Times New Roman"; 
+}
+
+ 
 .pageMargin{
     border-style:double;
     border-width:20px;
     border-color:red; 
 }
-h1{
-    border-style:dotted;
-    border-width:20px;
-    border-color:red; 
-}
+
 
 
 
