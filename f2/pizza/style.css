@@ -9,6 +9,12 @@ img{
     border-radius: 100px;
     padding: 20px; 
 }   
+
+.h7{
+    font-size: 100px; 
+    font-weight: bold; 
+}   
+
 h1{
     border-style:dotted;
     border-width:20px;
