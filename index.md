@@ -1,3 +1,9 @@
+# CSS 11/9/18
+
+This week I learned how to use css to create colors in a website. I also learned how to use css to create borders around texts. I also learned about how to use css to crop images. I also learned about how to use css to make boarders in a website. I also learned how to formate my pizza website. I aslo learned about how to use css to create a pizza ordering website. 
+
+---
+
 # Pizza Project 11/2/18
 
 This week I created a website. I also created a pizza ordering cite. In the cite I put the different size of pizza that you can get on the cite. I also put in a place where you can choose the different types of toppings that you like on your pizza. I also put in the different types of crusts that you can choose for your pizza. I also put in different pictures to show the different types of pizzas that you can make. 
