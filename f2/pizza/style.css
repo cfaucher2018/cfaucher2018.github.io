@@ -26,8 +26,9 @@ h1{
 .pageMargin{
     border-style:double;
     border-width:20px;
-    border-color:red; 
-}
+    border-color:red;
+    border-radius:10px;
+}  
 
 
 
