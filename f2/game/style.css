@@ -1,23 +1,32 @@
+body{
+    background-color:red 
+}
+
 table{
     border-style:solid;
     border-color:green;
     
 }
+
 td{
     border-style:solid;
     border-color:red;
 }
+
 img{
     height: 400px;
     width: 400px;
 }
+
 .h7{
     font-size: 20px;
     font-weight: bold;
     color: blue 
 }
+
 .h1{
     font-size: 100px;
     font-weight: bold;
     color:red 
 }
+
