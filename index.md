@@ -1,3 +1,9 @@
+# game cite 11/16/18
+
+This week I learned how to create a website to describe a game. I also learned about how to use html to put pictures and paragraphs into a website. I also learned about how to use css codeing to crop images and to change the size of images and texts. I also learned about how to use html to make a table in a website. I also learned about how to use html to put images into a website. I also learned about how to put paragraphs into a website and how to make the text a certen size and color. 
+
+---
+
 # CSS 11/9/18
 
 This week I learned how to use css to create colors in a website. I also learned how to use css to create borders around texts. I also learned about how to use css to crop images. I also learned about how to use css to make boarders in a website. I also learned how to formate my pizza website. I aslo learned about how to use css to create a pizza ordering website. 
