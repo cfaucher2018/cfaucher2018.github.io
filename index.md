@@ -1,3 +1,9 @@
+# Boot strap 11/30/18
+
+This week I learned how to use a coding technec called boot strap. I also learned about other different types of code that is used in both html and css. I also learned how to to use html to create rows of colors. I also learned how to crop an image so that it fits in a certen place on the website. I also learned a lot of different types of codes to use when creating a website. I also learned about how to use html coding to make text in a website bigger and easyer to read. 
+
+---
+
 # game cite 11/16/18
 
 This week I learned how to create a website to describe a game. I also learned about how to use html to put pictures and paragraphs into a website. I also learned about how to use css codeing to crop images and to change the size of images and texts. I also learned about how to use html to make a table in a website. I also learned about how to use html to put images into a website. I also learned about how to put paragraphs into a website and how to make the text a certen size and color. 
