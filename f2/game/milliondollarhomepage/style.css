@@ -11,7 +11,15 @@ body{
     background-color: white;
     border:1px solid red; 
 }
-
+.g{ 
+    background-color: green;
+}
+.b{
+    background-color: blue;
+}
+.r{
+    background-color: red; 
+}
 
 
 
