@@ -3,13 +3,13 @@ body{
 }
 .twelvepx{
     width:120px;
-    height:12px; 
+    height:120px; 
 }
 .onepx{
-    width:10px;
-    height:10px; 
+    width:100px;
+    height:100px; 
     background-color: white;
-    border:1px solid red; 
+    border:20px solid red; 
 }
 .g{ 
     background-color: green;
