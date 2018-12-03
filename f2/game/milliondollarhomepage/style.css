@@ -2,11 +2,16 @@ body{
 
 }
 .twelvepx{
-    width:12px;
+    width:120px;
     height:12px; 
 }
 .onepx{
-    width:1px;
-    height:1px; 
+    width:10px;
+    height:10px; 
     background-color: white;
 }
+
+
+
+
+
