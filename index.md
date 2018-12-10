@@ -1,3 +1,9 @@
+# milliondollor homepage 12/7/18
+
+This week I learned how to create an image using html and style.css. I also created a home page that shows an image that was made by codeing. Creating this page was vewry hard because there were somethings that didn't work the first time that I put them into code. Another way that made it hard to created was that when I tried to change one thing on the the page there were a lot more than one thing that was changed on the page. Once I got the hang of how to create the page it got easyer to create over time. This page was really fun to create because I learned a lot of thimngs that I didn't know before. 
+
+---
+
 # Boot strap 11/30/18
 
 This week I learned how to use a coding technec called boot strap. I also learned about other different types of code that is used in both html and css. I also learned how to to use html to create rows of colors. I also learned how to crop an image so that it fits in a certen place on the website. I also learned a lot of different types of codes to use when creating a website. I also learned about how to use html coding to make text in a website bigger and easyer to read. 
