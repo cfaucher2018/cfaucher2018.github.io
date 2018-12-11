@@ -1,8 +1,9 @@
 function annoy(){
+var fname = promot("tell me your mane");
 
-alert("are we there yet");
+document.getElementById("annoy").innerHTML = "I am annoyed"; 
+while(true){
+alert(fname + " are we there yet");
+}
 
-alert("are we there yet");
-
-alert("are we there yet"); 
 }
