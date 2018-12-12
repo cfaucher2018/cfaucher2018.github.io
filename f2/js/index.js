@@ -14,3 +14,14 @@ function mark_present()
     $('#present_cadets').append("<ul id = 'cadets_list'></ul>");
     $('#cadets_list').append("<li>"+cadet_name+"</li>"); 
 }
+
+
+$(document).ready(function() {
+    var flag= false;
+    setInterval(function() {
+        flag = !flag;
+        $("body").css("background", flag ? "red" : "green");
+        $("body").css("background", flag ? "green" : "red");
+    }, 1000);
+
+});
