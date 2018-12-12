@@ -12,5 +12,5 @@ function mark_present()
     var cadet_name = $('#cadet_name').val();
     alert(cadet_name+ " is here!");
     $('#present_cadets').append("<ul id = 'cadets_list'></ul>");
-    $('#cadets_list').append("<li>"+cadet_name+"</lu>"); 
+    $('#cadets_list').append("<li>"+cadet_name+"</li>"); 
 }
