@@ -1,3 +1,9 @@
+# java script 12/14/2018
+
+This week I learned how to used a different type of code that is known as java script. I also learned how to used this code to make different types of colors on a page change on its own. I also learned how to use this code to put in audio into a website. I also learned about the many different type of ways to use java script to create a website. I also learned about how to use java script to create an attendense page. I also learned about how to use java script to make maltiple audio tracks play at the same time and while that is going on to have the background be changeing colors all at the same time. 
+
+---
+
 # milliondollor homepage 12/7/18
 
 This week I learned how to create an image using html and style.css. I also created a home page that shows an image that was made by codeing. Creating this page was vewry hard because there were somethings that didn't work the first time that I put them into code. Another way that made it hard to created was that when I tried to change one thing on the the page there were a lot more than one thing that was changed on the page. Once I got the hang of how to create the page it got easyer to create over time. This page was really fun to create because I learned a lot of thimngs that I didn't know before. 
